@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "title": "Portfolio Web",
+    "description": "Sitio web personal construido con React y Material UI. Incluye secciones de proyectos, experiencia y contacto.",
+    "image": "https://placehold.co/400x220/1976d2/ffffff?text=Portfolio+Web",
+    "link": "https://github.com/fcasmen658",
+    "tags": ["React", "Material UI", "Vite"]
+  },  {
+    "id": 2,
+    "title": "Github Portfolio",
+    "description": "Sitio web personal construido con React y Material UI. Incluye secciones de proyectos, experiencia y contacto.",
+    "image": "https://placehold.co/400x220/1976d2/ffffff?text=Github+Portfolio",
+    "link": "https://github.com/fcasmen658",
+    "tags": ["React", "Material UI", "Vite", "GitHub Pages", "Java", "Spring Boot"]
+  },
+  {
+    "id": 3,
+    "title": "App de Inventario",
+    "description": "Aplicación CRUD de gestión de inventario con filtros por estado y persistencia en mysql.",
+    "image": "https://placehold.co/400x220/388e3c/ffffff?text=App+Inventario",
+    "link": "https://indalosoftware.com/inventario/public/",
+    "tags": ["JavaScript", "CSS", "MySQL"]
+  },
+  {
+    "id": 4,
+    "title": "API REST con Node.js",
+    "description": "Backend RESTful con Express y MongoDB para gestión de usuarios y autenticación con JWT.",
+    "image": "https://placehold.co/400x220/f57c00/ffffff?text=API+REST",
+    "link": "https://github.com",
+    "tags": ["Node.js", "Express", "MongoDB", "JWT"]
+  },
+  {
+    "id": 5,
+    "title": "Tienda Online",
+    "description": "E-commerce con carrito de compras, sistema de pagos integrado y panel de administración.",
+    "image": "https://placehold.co/400x220/7b1fa2/ffffff?text=Tienda+Online",
+    "link": "https://tienda-romero.es/",
+    "tags": ["React", "Redux", "Stripe"]
+  }
+]

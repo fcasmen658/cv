@@ -1,0 +1,45 @@
+[
+  {
+    "id": 1,
+    "role": "Desarrollador Full Stack en prácticas",
+    "place": "Pgo UCAM",
+    "dates": "Feb 2026 – Actualidad",
+    "details": "Desarrollo de aplicaciones web con Laravel, React, TypeScript y MySQL. Integración con APIs REST. Participación en metodología Scrum."
+  },
+  {
+    "id": 2,
+    "role": "Técnico informático, móviles y electrónico",
+    "place": "Almería Móviles",
+    "dates": "Jun 2021 – Feb 2023",
+    "details": "Reparación de móviles, tablets, portátiles. Proyectos de electrónica. Cableado estructurado, etc."
+  },
+  {
+    "id": 3,
+    "role": "Técnico informático, móviles y electrónico",
+    "place": "Datamovil",
+    "dates": "Ene 2018 – May 2021",
+    "details": "Reparación de móviles, tablets, portátiles. Proyectos de electrónica. Cableado estructurado, etc."
+  },
+    {
+    "id": 4,
+    "role": "Técnico informático, móviles y electrónico",
+    "place": "Informática Merlin",
+    "dates": "Ene 2015 – Dic 2017",
+    "details": "Reparación de móviles, tablets, portátiles. Proyectos de electrónica. Cableado estructurado, etc."
+  },
+    {
+    "id": 5,
+    "role": "Técnico informático, técnico de zona (Almería), Helpdesk y soporte técnico",
+    "place": "Distrubuciones Notariales, S.L.",
+    "dates": "May 2006 – Dic 2014",
+    "details": "Técnico de campo en Almería, Granada y Málaga. Soporte técnico a notarías. Mantenimiento de redes, servidores, puestos de trabajo, etc."
+  },
+    {
+    "id": 6,
+    "role": "Técnico informático y soporte técnico",
+    "place": "Tiendas Romero y 4kom.net",
+    "dates": "Ene 2000 – Abr 2006",
+    "details": "Técnico informático. Soporte técnico a clientes. Mantenimiento de redes, servidores, puestos de trabajo, etc."
+  }
+
+]
