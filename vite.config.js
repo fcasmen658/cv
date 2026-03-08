@@ -15,8 +15,7 @@ import react from "@vitejs/plugin-react";
  *   cambia base a: "/cv/"
  */
 export default defineConfig({
-  // base: "/",   // Raíz del dominio (por defecto)
-  // base: "/cv/", // Descomenta y ajusta si despliegas en un subdirectorio
+  base: "/cv/", // Subdirectorio del repositorio en GitHub Pages
   plugins: [
     react(), // Habilita JSX y Fast Refresh para desarrollo ágil
   ],
