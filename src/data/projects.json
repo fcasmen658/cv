@@ -12,7 +12,7 @@
     "title": "Portfolio Web",
     "description": "Sitio web personal construido con React y Material UI. Incluye secciones de proyectos, experiencia y contacto.",
     "image": "https://placehold.co/400x220/1976d2/ffffff?text=Portfolio+Web",
-    "link": "https://github.com/fcasmen658",
+    "link": "https://www.indalosoftware.com/",
     "tags": ["React", "Material UI", "Vite"]
   },  {
     "id": 2,
@@ -27,7 +27,7 @@
     "title": "App de Inventario",
     "description": "Aplicación CRUD de gestión de inventario con filtros por estado y persistencia en mysql.",
     "image": "https://placehold.co/400x220/388e3c/ffffff?text=App+Inventario",
-    "link": "https://indalosoftware.com/inventario/public/",
+    "link": "/inventario/",
     "tags": ["JavaScript", "CSS", "MySQL"]
   },
   {

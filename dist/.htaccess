@@ -28,6 +28,11 @@ AddType application/json .json
 
 </IfModule>
 
+# ── Sub-apps estáticas: sirve su propio index.html directamente ─────────────
+
+RewriteRule ^inventario/?$ /inventario/index.html [L]
+RewriteRule ^tpv/?$ /tpv/index.html [L]
+
 # ── React Router: redirige rutas desconocidas al index.html ─────────────────
 
 RewriteCond %{REQUEST_FILENAME} !-f

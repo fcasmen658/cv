@@ -127,8 +127,6 @@ function ProjectCard({ title, description, image, link, tags = [] }) {
             variant="contained"
             endIcon={<OpenInNewIcon />}
             href={link}
-            target="_blank"
-            rel="noopener noreferrer"
           >
             Ver proyecto
           </Button>
