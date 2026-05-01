@@ -15,7 +15,7 @@ import react from "@vitejs/plugin-react";
  *   cambia base a: "/cv/"
  */
 export default defineConfig({
-  base: "/cv/", // Subdirectorio del repositorio en GitHub Pages
+  base: "/", // Raíz del dominio para servidor Ubuntu
   plugins: [
     react(), // Habilita JSX y Fast Refresh para desarrollo ágil
   ],

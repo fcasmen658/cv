@@ -1,5 +1,13 @@
 [
   {
+    "id": 0,
+    "title": "TPV - Terminal Punto de Venta",
+    "description": "Aplicación web de Terminal Punto de Venta (TPV) para la gestión de ventas, productos y cobros en establecimientos comerciales.",
+    "image": "https://placehold.co/400x220/c62828/ffffff?text=TPV",
+    "link": "/tpv/",
+    "tags": ["JavaScript", "HTML", "CSS"]
+  },
+  {
     "id": 1,
     "title": "Portfolio Web",
     "description": "Sitio web personal construido con React y Material UI. Incluye secciones de proyectos, experiencia y contacto.",
